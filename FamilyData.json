@@ -1,0 +1,705 @@
+[
+  {
+    "head": "Ram Charan [Badle]",
+    "id": 1,
+    "contents": "Male",
+    "children": [
+      {
+        "head": "Nishaan",
+        "id": 2,
+        "contents": "Male"
+      },
+      {
+        "head": "Gobind",
+        "id": 3,
+        "contents": "Male",
+        "children": [
+          {
+            "head": "Ram Bilas",
+            "id": 8,
+            "contents": "Male",
+            "children": [
+              {
+                "head": "Samle [LEGEND]",
+                "id": 16,
+                "contents": "Male"
+              },
+              {
+                "head": "Ram Chandra",
+                "id": 17,
+                "contents": "Male",
+                "children": [
+                  {
+                    "head": "Ram Nivas",
+                    "id": 36,
+                    "contents": "Male"
+                  },
+                  {
+                    "head": "Itlesh",
+                    "id": 37,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Gyan Deep",
+                        "id": 81,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Neetu",
+                        "id": 82,
+                        "contents": "Female",
+                        "children": [
+                          {
+                            "head": "Aayush Shukla",
+                            "id": 143,
+                            "contents": "Male"
+                          }
+                        ]
+                      },
+                      {
+                        "head": "Raj Deep",
+                        "id": 83,
+                        "contents": "Male"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Ram Babu",
+                    "id": 38,
+                    "contents": "Male"
+                  },
+                  {
+                    "head": "Surendra",
+                    "id": 39,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Harshit",
+                        "id": 85,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Niharika",
+                        "id": 86,
+                        "contents": "Female"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Dinesh",
+                    "id": 40,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Seetu",
+                        "id": 88,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Reetu",
+                        "id": 89,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Muskan",
+                        "id": 90,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Khushi",
+                        "id": 91,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Soumya",
+                        "id": 92,
+                        "contents": "Female"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Shiv Devi",
+                    "id": 41,
+                    "contents": "Female"
+                  },
+                  {
+                    "head": "Kishori",
+                    "id": 42,
+                    "contents": "Female"
+                  }
+                ]
+              },
+              {
+                "head": "Raghuveer [LEGEND]",
+                "id": 18,
+                "contents": "Male"
+              },
+              {
+                "head": "Vrijnandan [ULTRA LEGEND]",
+                "id": 19,
+                "contents": "Male",
+                "children": [
+                  {
+                    "head": "Chunni",
+                    "id": 44,
+                    "contents": "Female"
+                  },
+                  {
+                    "head": "Munni",
+                    "id": 45,
+                    "contents": "Female"
+                  },
+                  {
+                    "head": "Bablu (Upendra)",
+                    "id": 46,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Shivam",
+                        "id": 94,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Shivani",
+                        "id": 95,
+                        "contents": "Female"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Moni",
+                    "id": 47,
+                    "contents": "Female"
+                  },
+                  {
+                    "head": "Gaurav",
+                    "id": 48,
+                    "contents": "Male"
+                  },
+                  {
+                    "head": "Saurabh",
+                    "id": 49,
+                    "contents": "Male"
+                  }
+                ]
+              },
+              {
+                "head": "Lalli",
+                "id": 20,
+                "contents": "Female"
+              }
+            ]
+          },
+          {
+            "head": "Sovaran",
+            "id": 9,
+            "contents": "Male",
+            "children": [
+              {
+                "head": "Ram Murti",
+                "id": 21,
+                "contents": "Male",
+                "children": [
+                  {
+                    "head": "Sarvesh",
+                    "id": 52,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Pratima",
+                        "id": 97,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Rahul",
+                        "id": 98,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Pankaj",
+                        "id": 99,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Pratibha",
+                        "id": 100,
+                        "contents": "Female"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Ashok",
+                    "id": 53,
+                    "contents": "Male"
+                  },
+                  {
+                    "head": "Brijesh",
+                    "id": 54,
+                    "contents": "Male"
+                  },
+                  {
+                    "head": "Pramood",
+                    "id": 55,
+                    "contents": "Male"
+                  }
+                ]
+              },
+              {
+                "head": "Moti Lal",
+                "id": 22,
+                "contents": "Male"
+              },
+              {
+                "head": "Ram Bal",
+                "id": 23,
+                "contents": "Male",
+                "children": [
+                  {
+                    "head": "Anil",
+                    "id": 57,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Bipin",
+                        "id": 101,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Himanshu",
+                        "id": 102,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Sundaram",
+                        "id": 103,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Rangoli",
+                        "id": 104,
+                        "contents": "Female"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "head": "Chanda",
+                "id": 24,
+                "contents": "Female"
+              },
+              {
+                "head": "Sujjan",
+                "id": 25,
+                "contents": "Male"
+              }
+            ]
+          },
+          {
+            "head": "Jageshwar",
+            "id": 10,
+            "contents": "Male"
+          },
+          {
+            "head": "Vishram",
+            "id": 11,
+            "contents": "Male"
+          },
+          {
+            "head": "Sadhu",
+            "id": 12,
+            "contents": "Male"
+          }
+        ]
+      },
+      {
+        "head": "Gajraj",
+        "id": 4,
+        "contents": "Male",
+        "children": [
+          {
+            "head": "Ram Swaroop",
+            "id": 13,
+            "contents": "Male",
+            "children": [
+              {
+                "head": "Umesh",
+                "id": 26,
+                "contents": "Male",
+                "children": [
+                  {
+                    "head": "Anil",
+                    "id": 59,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Roshni",
+                        "id": 105,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Mona",
+                        "id": 106,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Piyush",
+                        "id": 107,
+                        "contents": "Male"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Sarita",
+                    "id": 60,
+                    "contents": "Female"
+                  },
+                  {
+                    "head": "Manoj",
+                    "id": 61,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Poonam",
+                        "id": 108,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Priyanshu",
+                        "id": 109,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Shiva",
+                        "id": 110,
+                        "contents": "Male"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Babita",
+                    "id": 62,
+                    "contents": "Female"
+                  }
+                ]
+              },
+              {
+                "head": "Ramesh",
+                "id": 27,
+                "contents": "Male",
+                "children": [
+                  {
+                    "head": "Deepu",
+                    "id": 64,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Shubham",
+                        "id": 111,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Manya",
+                        "id": 112,
+                        "contents": "Female"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Ruchi",
+                    "id": 65,
+                    "contents": "Female"
+                  },
+                  {
+                    "head": "Sandeep",
+                    "id": 66,
+                    "contents": "Male"
+                  },
+                  {
+                    "head": "Puneet",
+                    "id": 67,
+                    "contents": "Male"
+                  }
+                ]
+              },
+              {
+                "head": "Rishambha",
+                "id": 28,
+                "contents": "Female"
+              },
+              {
+                "head": "Ishwar Devi",
+                "id": 29,
+                "contents": "Female"
+              },
+              {
+                "head": "Suresh",
+                "id": 30,
+                "contents": "Male"
+              }
+            ]
+          },
+          {
+            "head": "Shakuntala",
+            "id": 14,
+            "contents": "Female"
+          },
+          {
+            "head": "Rajkumar",
+            "id": 15,
+            "contents": "Male",
+            "children": [
+              {
+                "head": "Ram Awatar",
+                "id": 31,
+                "contents": "Male",
+                "children": [
+                  {
+                    "head": "Srikant",
+                    "id": 69,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Rajeev",
+                        "id": 113,
+                        "contents": "Male",
+                        "children": [
+                          {
+                            "head": "Anurag",
+                            "id": 146,
+                            "contents": "Male"
+                          },
+                          {
+                            "head": "Kanchan (Priya)",
+                            "id": 147,
+                            "contents": "Female"
+                          },
+                          {
+                            "head": "Prasoon (Golu)",
+                            "id": 148,
+                            "contents": "Male"
+                          }
+                        ]
+                      },
+                      {
+                        "head": "Sanjeev",
+                        "id": 114,
+                        "contents": "Male",
+                        "children": [
+                          {
+                            "head": "Avantika",
+                            "id": 150,
+                            "contents": "Female"
+                          },
+                          {
+                            "head": "Rudra",
+                            "id": 151,
+                            "contents": "Male"
+                          }
+                        ]
+                      },
+                      {
+                        "head": "Seeshu",
+                        "id": 115,
+                        "contents": "Male",
+                        "children": [
+                          {
+                            "head": "Shreya",
+                            "id": 153,
+                            "contents": "Female"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Pushpa",
+                    "id": 70,
+                    "contents": "Female"
+                  }
+                ]
+              },
+              {
+                "head": "Sarla",
+                "id": 32,
+                "contents": "Female"
+              },
+              {
+                "head": "Ram Das",
+                "id": 33,
+                "contents": "Male",
+                "children": [
+                  {
+                    "head": "Guddi",
+                    "id": 72,
+                    "contents": "Female",
+                    "children": [
+                      {
+                        "head": "Neeraj Bajpayee",
+                        "id": 118,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Kalpana Bajpayee",
+                        "id": 119,
+                        "contents": "Female"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Ashok",
+                    "id": 73,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Amit",
+                        "id": 121,
+                        "contents": "Male",
+                        "children": [
+                          {
+                            "head": "Agrima",
+                            "id": 155,
+                            "contents": "Female"
+                          }
+                        ]
+                      },
+                      {
+                        "head": "Arpan",
+                        "id": 122,
+                        "contents": "Male"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Anil",
+                    "id": 74,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Aakash",
+                        "id": 124,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Abhay",
+                        "id": 125,
+                        "contents": "Male"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "head": "Om Prakash",
+                "id": 34,
+                "contents": "Male",
+                "children": [
+                  {
+                    "head": "Rama Kant",
+                    "id": 76,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Shweta",
+                        "id": 127,
+                        "contents": "Female",
+                        "children": [
+                          {
+                            "head": "Vansh Tiwari",
+                            "id": 157,
+                            "contents": "Male"
+                          }
+                        ]
+                      },
+                      {
+                        "head": "Bhawna (Ekta)",
+                        "id": 128,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Prakhar (Harshit)",
+                        "id": 129,
+                        "contents": "Male"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Rajani Kant",
+                    "id": 77,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Ravi Kant",
+                        "id": 131,
+                        "contents": "Male"
+                      },
+                      {
+                        "head": "Sheetal",
+                        "id": 132,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Shivani",
+                        "id": 133,
+                        "contents": "Female"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Kushuma",
+                    "id": 78,
+                    "contents": "Female",
+                    "children": [
+                      {
+                        "head": "Divya Mishra (Komal)",
+                        "id": 135,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Anubhav Mishra (Shyam)",
+                        "id": 136,
+                        "contents": "Male"
+                      }
+                    ]
+                  },
+                  {
+                    "head": "Arvind Kumar",
+                    "id": 79,
+                    "contents": "Male",
+                    "children": [
+                      {
+                        "head": "Uma (Shrishti)",
+                        "id": 138,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Radha",
+                        "id": 139,
+                        "contents": "Female"
+                      },
+                      {
+                        "head": "Gauri (Kaki)",
+                        "id": 140,
+                        "contents": "Female"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "head": "Jhunna",
+        "id": 5,
+        "contents": "Female"
+      },
+      {
+        "head": "Bhugni",
+        "id": 6,
+        "contents": "Female"
+      }
+    ]
+  }
+]
